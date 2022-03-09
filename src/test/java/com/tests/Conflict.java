@@ -2,9 +2,10 @@ package com.tests;
 
 public class Conflict {
 
-    safas
+    //some changes
+    //
 
     // change from koray
 
-    //another change from koray
+
 }
